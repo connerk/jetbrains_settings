@@ -4,27 +4,21 @@
       <array>
         <ServerContextState>
           <option name="type" value="TFS" />
-          <option name="uri" value="http://lit-tfs-svr:8080/tfs/WebTeam" />
-          <option name="serverUri" value="http://lit-tfs-svr:8080/tfs/WebTeam" />
-          <option name="userId" value="bc60e6df-81d9-41dd-9f81-79f4fd898d84" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
           <option name="uri" value="http://_TFS_LAST_USED_URL_" />
           <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
           <option name="userId" value="bc60e6df-81d9-41dd-9f81-79f4fd898d84" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6893667c-a223-4bf9-9379-5cf61bc1a639&quot;,&quot;name&quot;:&quot;WebTeam&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/_apis/projectCollections/6893667c-a223-4bf9-9379-5cf61bc1a639&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Web based application to replace Lithia Motors older Excel payroll solution&quot;,&quot;id&quot;:&quot;a9918867-3f48-439f-8895-3a82c3641467&quot;,&quot;name&quot;:&quot;Payroll&quot;,&quot;revision&quot;:196,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/a9918867-3f48-439f-8895-3a82c3641467&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Projects we support for other departments such as Payroll, Treasury, Vehicle Funding, DMS, etc.\nMostly consists of VBA and VSTO macros and custom ribbons&quot;,&quot;id&quot;:&quot;1128e9ab-28a4-46d6-8054-178caaa8bfa1&quot;,&quot;name&quot;:&quot;Support Services Automation&quot;,&quot;revision&quot;:210,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/1128e9ab-28a4-46d6-8054-178caaa8bfa1&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;58463212-5c2a-4ae4-b6d7-976f579abc8e&quot;,&quot;name&quot;:&quot;vfs-account-comparison&quot;,&quot;remoteUrl&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/Support%20Services%20Automation/_git/vfs-account-comparison&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/git/repositories/58463212-5c2a-4ae4-b6d7-976f579abc8e&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Projects we support for other departments such as Payroll, Treasury, Vehicle Funding, DMS, etc.\nMostly consists of VBA and VSTO macros and custom ribbons&quot;,&quot;id&quot;:&quot;1128e9ab-28a4-46d6-8054-178caaa8bfa1&quot;,&quot;name&quot;:&quot;Support Services Automation&quot;,&quot;revision&quot;:210,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/1128e9ab-28a4-46d6-8054-178caaa8bfa1&quot;}}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
-          <option name="uri" value="http://lit-tfs-svr:8080/tfs/webteam/" />
-          <option name="serverUri" value="http://lit-tfs-svr:8080/tfs/" />
+          <option name="uri" value="http://lit-tfs-svr:8080/tfs/WebTeam/Support%20Services%20Automation/_git/vfs-account-comparison" />
+          <option name="serverUri" value="http://lit-tfs-svr:8080/tfs" />
           <option name="userId" value="bc60e6df-81d9-41dd-9f81-79f4fd898d84" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6893667c-a223-4bf9-9379-5cf61bc1a639&quot;,&quot;name&quot;:&quot;WebTeam&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/webteam/_apis/projectCollections/6893667c-a223-4bf9-9379-5cf61bc1a639&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Web based application to replace Lithia Motors older Excel payroll solution&quot;,&quot;id&quot;:&quot;a9918867-3f48-439f-8895-3a82c3641467&quot;,&quot;name&quot;:&quot;Payroll&quot;,&quot;revision&quot;:196,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/a9918867-3f48-439f-8895-3a82c3641467&quot;}" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6893667c-a223-4bf9-9379-5cf61bc1a639&quot;,&quot;name&quot;:&quot;WebTeam&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/_apis/projectCollections/6893667c-a223-4bf9-9379-5cf61bc1a639&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Projects we support for other departments such as Payroll, Treasury, Vehicle Funding, DMS, etc.\nMostly consists of VBA and VSTO macros and custom ribbons&quot;,&quot;id&quot;:&quot;1128e9ab-28a4-46d6-8054-178caaa8bfa1&quot;,&quot;name&quot;:&quot;Support Services Automation&quot;,&quot;revision&quot;:210,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/1128e9ab-28a4-46d6-8054-178caaa8bfa1&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;58463212-5c2a-4ae4-b6d7-976f579abc8e&quot;,&quot;name&quot;:&quot;vfs-account-comparison&quot;,&quot;remoteUrl&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/Support%20Services%20Automation/_git/vfs-account-comparison&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/git/repositories/58463212-5c2a-4ae4-b6d7-976f579abc8e&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Projects we support for other departments such as Payroll, Treasury, Vehicle Funding, DMS, etc.\nMostly consists of VBA and VSTO macros and custom ribbons&quot;,&quot;id&quot;:&quot;1128e9ab-28a4-46d6-8054-178caaa8bfa1&quot;,&quot;name&quot;:&quot;Support Services Automation&quot;,&quot;revision&quot;:210,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/1128e9ab-28a4-46d6-8054-178caaa8bfa1&quot;}}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
@@ -44,7 +38,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="repoRoot" />
-          <option name="value" value="C:\Users\kevin conner\Source\Workspaces\" />
+          <option name="value" value="C:\Users\kevin conner" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
