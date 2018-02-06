@@ -1,0 +1,15 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="Fira Code" />
+    <option name="FONT_SCALE" value="1.25" />
+    <option name="FONT_SIZE" value="18" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="NAVIGATE_TO_PREVIEW" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="smoothScrolling" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
+</application>

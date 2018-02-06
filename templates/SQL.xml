@@ -1,0 +1,7 @@
+<templateSet group="SQL">
+  <template name="dev" value="/* DEV */&#10;&#10;/* DEV */" description="Developer block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>

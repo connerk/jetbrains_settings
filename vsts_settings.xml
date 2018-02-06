@@ -1,0 +1,56 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://lit-tfs-svr:8080/tfs/WebTeam" />
+          <option name="serverUri" value="http://lit-tfs-svr:8080/tfs/WebTeam" />
+          <option name="userId" value="bc60e6df-81d9-41dd-9f81-79f4fd898d84" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="userId" value="bc60e6df-81d9-41dd-9f81-79f4fd898d84" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6893667c-a223-4bf9-9379-5cf61bc1a639&quot;,&quot;name&quot;:&quot;WebTeam&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/_apis/projectCollections/6893667c-a223-4bf9-9379-5cf61bc1a639&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Web based application to replace Lithia Motors older Excel payroll solution&quot;,&quot;id&quot;:&quot;a9918867-3f48-439f-8895-3a82c3641467&quot;,&quot;name&quot;:&quot;Payroll&quot;,&quot;revision&quot;:196,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/a9918867-3f48-439f-8895-3a82c3641467&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://lit-tfs-svr:8080/tfs/webteam/" />
+          <option name="serverUri" value="http://lit-tfs-svr:8080/tfs/" />
+          <option name="userId" value="bc60e6df-81d9-41dd-9f81-79f4fd898d84" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6893667c-a223-4bf9-9379-5cf61bc1a639&quot;,&quot;name&quot;:&quot;WebTeam&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/webteam/_apis/projectCollections/6893667c-a223-4bf9-9379-5cf61bc1a639&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Web based application to replace Lithia Motors older Excel payroll solution&quot;,&quot;id&quot;:&quot;a9918867-3f48-439f-8895-3a82c3641467&quot;,&quot;name&quot;:&quot;Payroll&quot;,&quot;revision&quot;:196,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/a9918867-3f48-439f-8895-3a82c3641467&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://lit-tfs-svr:8080/tfs" />
+          <option name="serverUri" value="http://lit-tfs-svr:8080/tfs" />
+          <option name="userId" value="bc60e6df-81d9-41dd-9f81-79f4fd898d84" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6893667c-a223-4bf9-9379-5cf61bc1a639&quot;,&quot;name&quot;:&quot;WebTeam&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/_apis/projectCollections/6893667c-a223-4bf9-9379-5cf61bc1a639&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Web based application to replace Lithia Motors older Excel payroll solution&quot;,&quot;id&quot;:&quot;a9918867-3f48-439f-8895-3a82c3641467&quot;,&quot;name&quot;:&quot;Payroll&quot;,&quot;revision&quot;:196,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://lit-tfs-svr:8080/tfs/WebTeam/_apis/projects/a9918867-3f48-439f-8895-3a82c3641467&quot;}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="C:\TEE-CLC-14.123.1\tf.cmd" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="C:\Users\kevin conner\Source\Workspaces\" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//_tfs_last_used_url_" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
