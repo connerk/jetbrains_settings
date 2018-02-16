@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="getkeys" value="select * from udf_Payroll_GetKeys('$LNUM$','$PPE$',1)" toReformat="true" toShortenFQNames="true">
+  <template name="getkeys" value="select * from udf_Payroll_GetKeys('$LNUM$','$PPE$',1)" description="" toReformat="true" toShortenFQNames="true">
     <variable name="PPE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="LNUM" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
     <context>
