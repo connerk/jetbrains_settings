@@ -1,0 +1,17 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <server uri="http://lit-tfs-svr:8080/tfs/webteam/">
+        <configuration>
+          <credentials>
+            <credentials type="NtlmNative">
+              <domain>LITHIAINC</domain>
+              <password />
+              <username>Kevin Conner</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+    </option>
+  </component>
+</application>
