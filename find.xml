@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Users\kevin conner\.DataGrip2018.3\config\consoles\db\503d4d9f-bd91-4132-9386-e9f838a4f1c0\console.sql'" />
-    <option name="defaultScopeName" value="File 'C:\Users\kevin conner\.DataGrip2018.3\config\consoles\db\503d4d9f-bd91-4132-9386-e9f838a4f1c0\console.sql'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Users\kevin conner\.DataGrip2018.3\config\consoles\db\503d4d9f-bd91-4132-9386-e9f838a4f1c0\console.sql'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
