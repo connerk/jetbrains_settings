@@ -18,6 +18,15 @@
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://LithiaMotors@dev.azure.com/LithiaMotors/Payroll-Workday-Hotfix/_git/Payroll-Workday-Hotfix" />
+          <option name="serverUri" value="https://dev.azure.com/LithiaMotors" />
+          <option name="userId" value="7f5af5ff-52d2-4dc9-93bf-e6cb38d79d58" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;abd599a0-70fe-434a-988a-407e14da0f5e&quot;,&quot;name&quot;:&quot;LithiaMotors&quot;,&quot;url&quot;:&quot;https://dev.azure.com/LithiaMotors/_apis/projectCollections/abd599a0-70fe-434a-988a-407e14da0f5e&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;A temporary implementation intended to bridge the time between when Workday is deployed and AllPay is ready\n\n[Documents](https://lithiamotors.sharepoint.com/:f:/s/dig/Er-grU3xcZVBq8pT6NXEDAkBvqMvOOTowCzAxIU0Gsggog?e=cVcmkc)&quot;,&quot;id&quot;:&quot;c8b74b90-5743-468a-b03c-a33e868eda89&quot;,&quot;name&quot;:&quot;Payroll-Workday-Hotfix&quot;,&quot;revision&quot;:160,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/LithiaMotors/_apis/projects/c8b74b90-5743-468a-b03c-a33e868eda89&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;d6771662-214f-4fa6-bdba-bbedb55ee9d6&quot;,&quot;name&quot;:&quot;Payroll-Workday-Hotfix&quot;,&quot;remoteUrl&quot;:&quot;https://LithiaMotors@dev.azure.com/LithiaMotors/Payroll-Workday-Hotfix/_git/Payroll-Workday-Hotfix&quot;,&quot;url&quot;:&quot;https://dev.azure.com/LithiaMotors/_apis/git/repositories/d6771662-214f-4fa6-bdba-bbedb55ee9d6&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;A temporary implementation intended to bridge the time between when Workday is deployed and AllPay is ready\n\n[Documents](https://lithiamotors.sharepoint.com/:f:/s/dig/Er-grU3xcZVBq8pT6NXEDAkBvqMvOOTowCzAxIU0Gsggog?e=cVcmkc)&quot;,&quot;id&quot;:&quot;c8b74b90-5743-468a-b03c-a33e868eda89&quot;,&quot;name&quot;:&quot;Payroll-Workday-Hotfix&quot;,&quot;revision&quot;:160,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/LithiaMotors/_apis/projects/c8b74b90-5743-468a-b03c-a33e868eda89&quot;}}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -33,6 +42,10 @@
         <PropertyState>
           <option name="name" value="authType" />
           <option name="value" value="CREDS" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//lithiamotors@dev.azure.com/lithiamotors/payroll-workday-hotfix/_git/payroll-workday-hotfix" />
         </PropertyState>
       </array>
     </option>
