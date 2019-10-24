@@ -4,10 +4,9 @@
     <option name="always-review-parameters" value="false" />
     <option name="execute-inside-option" value="2" />
     <option name="execute-outside-option" value="2" />
-    <option name="execute-selection-option" value="3" />
     <option name="ddl-editor-confirm-loss" value="false" />
     <exec-options>
-      <exec-option exec-inside="2" exec-outside="2" exec-selection="3" />
+      <exec-option exec-inside="2" exec-outside="2" />
       <exec-option exec-inside="3" exec-selection="3" />
       <exec-option />
     </exec-options>
